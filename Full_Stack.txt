@@ -1,5 +1,8 @@
 HTMl and CSS
 JavaScript
 BootStrap
-HTml
+HTML5 and CSS3
+JQuery
+Application Development using API
+
 
